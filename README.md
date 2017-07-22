@@ -27,3 +27,19 @@ is 82.9%.This is comparable to PCA and ICA but lesser
 than both of them.
 ![nmf](results/nmf.JPG)
 
+## Local Linear embedding
+The Highest accuracy for LLE is with
+number of components as 26 and number of neighbour’s as
+27.The accuracy is 33.85%.It is not better than PCA, ICA
+and NMF.
+![lle](lle.JPG)
+
+## t-Distributed Stochastic Neighbor Embedding
+The highest accuracy for TSNE is
+45% is almost constant with the increase in dimension’s to
+which it is being projected onto.The class output is same
+disregard of the input.
+![tsne](tsne.JPG)
+
+# Report
+[Report link](https://drive.google.com/file/d/0B7AfoY1RmYCrYkJDSDlkcWk4dzA/view?usp=sharing) 
