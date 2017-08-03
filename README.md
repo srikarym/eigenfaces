@@ -13,6 +13,11 @@ cherry picked but just a random image on the Internet.
 ![detection](results/bush_output.png)
 
 # Methods used:
+
+## Convolutional Neural Network
+We have used the architecture as shown in below table and could achieve and accuracy of 88.509%.
+![Architecture](results/cnn_architecture.png)
+
 ## Independent component analysis
 The top 12 ica components are shown here below.The
 Image does not look as much intuitive as PCA eigen faces.But
